@@ -4,12 +4,13 @@ title: Info
 permalink: /about/
 ---
 
-Some information about you!
+Do not look further. 
 
-### More Information
+### CLASS
 
-A place to include any other types of information that you'd like to include about yourself.
+Bring back the light.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+
+
+
