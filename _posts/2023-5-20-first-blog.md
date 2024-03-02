@@ -1,6 +1,6 @@
 ---
-layout: post
-title: first blog
+layout: Post
+title: First Post
 ---
 
-here on out
+Welcome 
